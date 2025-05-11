@@ -2,4 +2,8 @@
 .vscode
 examples/
 temp/
+__pycache__/
 vault.yml
+.python-version
+main.py
+uv.lock
